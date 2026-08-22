@@ -2,8 +2,8 @@
 Python Pandas is very useful! We can easily read a .csv file! We can easily gather data, make charts, write to file etc, all with Pandas!
 
 ---
-
-pip install pandas
+## Install Pandas
+### pip install pandas
 
 ---
 
