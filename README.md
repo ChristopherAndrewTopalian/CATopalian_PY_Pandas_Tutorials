@@ -3,6 +3,10 @@ Python Pandas is very useful! We can easily read a .csv file! We can easily gath
 
 ---
 
+pip install pandas
+
+---
+
 ![001](src/media/textures/backgrounds/001.jpg)
 
 ---
