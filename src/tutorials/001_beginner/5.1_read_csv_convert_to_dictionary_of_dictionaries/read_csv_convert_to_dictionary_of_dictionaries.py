@@ -4,7 +4,7 @@ import pandas as pd
 
 df = pd.read_csv('data.csv')
 
-# Set 'name' as the key and convert to Dict of Dicts
+# Set 'Name' as the key and convert to Dict of Dicts
 data_obj = df.set_index('Name').to_dict(orient='index')
 
 print(data_obj)
