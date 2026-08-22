@@ -5,7 +5,7 @@ import pandas as pd
 # Load the data
 df = pd.read_csv('data.csv')
 
-# Set 'name' as the index, then convert to a Dictionary of Dictionaries
+# Set 'Name' as the index, then convert to a Dictionary of Dictionaries
 data_dict = df.set_index('Name').to_dict(orient='index')
 
 # Show just the names

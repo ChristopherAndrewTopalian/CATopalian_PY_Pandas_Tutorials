@@ -6,7 +6,7 @@ import json
 # Load the CSV
 df = pd.read_csv('data.csv')
 
-# Set 'name' as the index and convert to a Dictionary of Dictionaries
+# Set 'Name' as the index and convert to a Dictionary of Dictionaries
 data_dict = df.set_index('Name').to_dict(orient='index')
 
 # Write the dictionary to a JSON file
