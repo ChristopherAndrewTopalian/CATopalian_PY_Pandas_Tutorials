@@ -1,4 +1,4 @@
-# read_csv_chart.py
+# read_csv_make_chart.py
 
 import pandas as pd
 import matplotlib.pyplot as plt

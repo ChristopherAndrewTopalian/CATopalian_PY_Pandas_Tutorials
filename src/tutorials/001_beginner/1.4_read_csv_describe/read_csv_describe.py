@@ -1,4 +1,4 @@
-# csv_describe.py
+# read_csv_describe.py
 
 import pandas as pd
 
