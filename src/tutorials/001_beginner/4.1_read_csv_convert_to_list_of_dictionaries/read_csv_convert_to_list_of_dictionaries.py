@@ -14,6 +14,30 @@ print(data_array)
 [{'Name': 'Tabitha', 'Score': 98}, {'Name': 'Jane', 'Score': 95}, {'Name': 'Jennifer', 'Score': 90}, {'Name': 'Alison, Martin', 'Score': 89}]
 '''
 
+'''
+[
+    {
+        'Name': 'Tabitha',
+        'Score': 98
+    },
+
+    {
+        'Name': 'Jane',
+        'Score': 95
+    },
+    
+    {
+        'Name': 'Jennifer',
+        'Score': 90
+    },
+    
+    {
+        'Name': 'Alison,
+        Martin', 'Score': 89
+    }
+]
+'''
+
 ####
 
 # Dedicated to God the Father
