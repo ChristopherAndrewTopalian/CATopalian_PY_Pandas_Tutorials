@@ -43,16 +43,16 @@ if __name__ == '__main__':
 
 2. Displaying the DataFrame:
     ID             Name Last_Known_Location           Status
-0  101      Smith, John     Sector 4, Alpha          Rescued
-1  102        Doe, Jane      Sector 7, Beta  Awaiting Rescue
-2  103  O'Connor, Sarah     Sector 4, Alpha          Rescued
-3  104      Patel, Ravi     Sector 9, Delta  Awaiting Rescue
+0  101  Smith, John  Sector 4, Alpha  Rescued
+1  102  Doe, Jane  Sector 7,  Beta  Awaiting Rescue
+2  103  O'Connor, Sarah  Sector 4, Alpha  Rescued
+3  104  Patel, Ravi  Sector 9, Delta  Awaiting Rescue
 
 3. Isolating a Specific Column (Just the Names):
-0        Smith, John
-1          Doe, Jane
-2    O'Connor, Sarah
-3        Patel, Ravi
+0  Smith, John
+1  Doe, Jane
+2  O'Connor, Sarah
+3  Patel, Ravi
 Name: Name, dtype: object
 '''
 

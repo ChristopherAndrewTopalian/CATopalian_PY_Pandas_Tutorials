@@ -17,13 +17,13 @@ print(jane_data)
 
 '''
              Name  Score  Year
-0         Tabitha     98  2026
-1            Jane     95  2025
-2        Jennifer     90  2025
-3  Alison, Martin     89  2024
+0         Tabitha  98  2026
+1            Jane  95  2025
+2        Jennifer  90  2025
+3  Alison, Martin  89  2024
 -------------------------------
    Name  Score  Year
-1  Jane     95      2025
+1  Jane  95  2025
 '''
 
 ####

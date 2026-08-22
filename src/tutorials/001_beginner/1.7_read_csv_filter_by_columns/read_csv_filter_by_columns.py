@@ -16,16 +16,16 @@ print(isolated_columns)
 
 '''
 Name  Score  Year  Team  Job
-0 Tabitha  98  2026   Red   Engineer
-1 Jane      95  2025  Blue   Computer Scientist
-2 Jennifer 90  2025  Red   AI Specialist
+0 Tabitha  98  2026   Red Engineer
+1 Jane  95  2025  Blue  Computer Scientist
+2 Jennifer  90  2025  Red  AI Specialist
 3  Alison, Martin  89  2024  Blue  Robotics Technician
 -------------------------------
              Name               Job
-0         Tabitha       Engineer
-1            Jane        Computer Scientist
-2        Jennifer       AI Specialist
-3  Alison, Martin   Robotics Technician
+0         Tabitha  Engineer
+1            Jane  Computer Scientist
+2        Jennifer  AI Specialist
+3  Alison, Martin  Robotics Technician
 '''
 
 ####

@@ -15,9 +15,9 @@ print(theData.info())
 
 '''
              Name  Score
-0         Tabitha      98
-1            Jane        95
-2        Jennifer      90
+0         Tabitha  98
+1            Jane  95
+2        Jennifer  90
 3  Alison, Martin  89
 -------------------------------
 <class 'pandas.core.frame.DataFrame'>

@@ -9,10 +9,10 @@ print(theData["Score"])
 ####
 
 '''
-0    98
-1    95
-2    90
-3    89
+0  98
+1  95
+2  90
+3  89
 Name: Score, dtype: int64
 '''
 
