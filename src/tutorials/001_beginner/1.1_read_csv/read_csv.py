@@ -10,10 +10,10 @@ print(theData.to_string())
 
 '''
              Name  Score
-0         Tabitha       98
-1            Jane        95
-2        Jennifer      90
-3  Alison, Martin   89
+0         Tabitha  98
+1            Jane  95
+2        Jennifer  90
+3  Alison, Martin  89
 '''
 
 ####
