@@ -1,4 +1,4 @@
-# read_csv_scores.py
+# read_csv_show_scores.py
 
 import pandas as pd
 

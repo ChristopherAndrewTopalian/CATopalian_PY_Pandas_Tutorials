@@ -16,7 +16,7 @@ plt.show()
 ####
 
 '''
-             Name  Score  Year  Team                  Job    Month  Sales
+Name  Score  Year  Team  Job    Month  Sales
 0  Tabitha  98  2026  Red  Engineer  January  4000
 1  Jane  95  2025  Blue  Computer Scientist  August  5000
 2  Jennifer  90  2025  Red  AI Specialist  June  1000
