@@ -5,8 +5,8 @@ import pandas as pd
 # Load the CSV
 df = pd.read_csv('data.csv')
 
-# Set index to 'name' and export directly
-df.set_index('Name').to_json('exported_dict_data.json', orient='index', indent=4)
+# Set index to 'Name' and export directly
+df.set_index('Name').to_json('exported_dictionary_data.json', orient='index', indent=4)
 
 print("Successfully exported Dictionary of Dictionaries to JSON!")
 
